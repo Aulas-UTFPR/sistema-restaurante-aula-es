@@ -7,40 +7,16 @@ assignees: ''
 
 ---
 
-## ✨ Descrição
+## 📘 User Story
 
-Uma descrição clara e concisa da funcionalidade que você está propondo. Qual problema ela resolve? Por que é necessária?
-
----
-
-## 💡 Motivação
-
-Por que essa funcionalidade deveria ser adicionada? Quais casos de uso ela atende? Como beneficiará o projeto ou os usuários?
+Descreva a user story ligada a essa feature.
 
 ---
 
-## 🧩 Solução Proposta
+## ✅ Tarefas
 
-Descreva como você imagina que a funcionalidade poderia ser implementada. Inclua detalhes técnicos, APIs, esboços de UI ou exemplos, se aplicável.
+Liste as tarefas para que a funcionalidade seja implementada completamente.
 
----
-
-## 📎 Alternativas Consideradas
-
-Você considerou outras abordagens ou soluções? Por que foram descartadas?
-
----
-
-## ✅ Critérios de Aceitação
-
-Liste os requisitos mínimos para que a funcionalidade seja considerada completa.
-
-- [ ] Atende ao caso de uso principal
-- [ ] Testes unitários (se aplicável)
-- [ ] Documentação atualizada (README, arquivos de ajuda)
-
----
-
-## 🔗 Contexto Adicional
-
-Adicione aqui qualquer outro contexto, capturas de tela, referências ou links relevantes.
+- [ ] Gerar mock da tela;
+- [ ] Criar serviço de backend;
+- [ ] Implementar o frontend.
